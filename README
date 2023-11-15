@@ -1,0 +1,9 @@
+# Learning about Version Control
+
+Author: Orix (Chi Hin) Au Yeung
+
+Solving merge conflicts takes conscious effort, but I can do it!
+
+I like version control system like git since it presents a fast and effective way to visualize and mangage changes. Also, it allows collaborations to be done in a more streamlined manner.
+
+The most challenging asepct of working with version control systems is that there are many approaches given its flexibility. Take merging strategies as an example, some individuals or organizations may prefer rebasing instead of merging. This creates some fustrations or even confusions when one needs to look back into the commit history in order to understand the change history.
