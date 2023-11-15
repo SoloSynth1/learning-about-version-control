@@ -1,1 +1,3 @@
-# learning-about-version-control
+# Learning about Version Control
+
+Author: Orix (Chi Hin) Au Yeung
